@@ -2,9 +2,8 @@
 ### What is Realtime Service?
 Realtime service enable users to receive information as soon as it is published by its authors, rather than requiring that they check a source periodically for updates. It guarantees immediate updates to all connected users.
 
-These are few Application Scenarios where realtime updates are important,
-
-1.Bulk email or An admin sends an email to all of his/her students and want to track the status of each email. (whether it's sent, failed or bounced).
+These are few application scenarios where realtime updates are important,
+1. Bulk email or An admin sends an email to all of his/her students and want to track the status of each email. (whether it's sent, failed or bounced).
 2. To track progress of inter-service communication.
 
 ### Terminology
