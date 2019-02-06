@@ -3,8 +3,8 @@
 Realtime service enable users to receive information as soon as it is published by its authors, rather than requiring that they check a source periodically for updates. It guarantees immediate updates to all connected users.
 
 These are few Application Scenarios where realtime updates are important,
-1. An admin sends an email to all of his/her students and want to track the status of each email. (whether it's sent, failed or bounced).
-2. Online Gaming or Chatting Applications.
+1.Bulk email or An admin sends an email to all of his/her students and want to track the status of each email. (whether it's sent, failed or bounced).
+2. To track progress of inter-service communication.
 
 ### Terminology
 - ***Hub*** : Hub enables you to make remote procedure calls (RPCs) from a server to connected clients and from clients to the server. In server code, you define methods that can be called by clients, and you call methods that run on the client.
